@@ -1,0 +1,14 @@
+E:\Computer\DotNet\BLAZOR\TopLearn_Blazor_Ordukhani2\Practice\BlazorServer_DB\Blazor.DataBase\bin\Debug\net7.0\Blazor.DataBase.deps.json
+E:\Computer\DotNet\BLAZOR\TopLearn_Blazor_Ordukhani2\Practice\BlazorServer_DB\Blazor.DataBase\bin\Debug\net7.0\Blazor.DataBase.dll
+E:\Computer\DotNet\BLAZOR\TopLearn_Blazor_Ordukhani2\Practice\BlazorServer_DB\Blazor.DataBase\bin\Debug\net7.0\Blazor.DataBase.pdb
+E:\Computer\DotNet\BLAZOR\TopLearn_Blazor_Ordukhani2\Practice\BlazorServer_DB\Blazor.DataBase\obj\Debug\net7.0\Blazor.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+E:\Computer\DotNet\BLAZOR\TopLearn_Blazor_Ordukhani2\Practice\BlazorServer_DB\Blazor.DataBase\obj\Debug\net7.0\Blazor.DataBase.AssemblyInfoInputs.cache
+E:\Computer\DotNet\BLAZOR\TopLearn_Blazor_Ordukhani2\Practice\BlazorServer_DB\Blazor.DataBase\obj\Debug\net7.0\Blazor.DataBase.AssemblyInfo.cs
+E:\Computer\DotNet\BLAZOR\TopLearn_Blazor_Ordukhani2\Practice\BlazorServer_DB\Blazor.DataBase\obj\Debug\net7.0\Blazor.DataBase.csproj.CoreCompileInputs.cache
+E:\Computer\DotNet\BLAZOR\TopLearn_Blazor_Ordukhani2\Practice\BlazorServer_DB\Blazor.DataBase\obj\Debug\net7.0\Blazor.DataBase.dll
+E:\Computer\DotNet\BLAZOR\TopLearn_Blazor_Ordukhani2\Practice\BlazorServer_DB\Blazor.DataBase\obj\Debug\net7.0\refint\Blazor.DataBase.dll
+E:\Computer\DotNet\BLAZOR\TopLearn_Blazor_Ordukhani2\Practice\BlazorServer_DB\Blazor.DataBase\obj\Debug\net7.0\Blazor.DataBase.pdb
+E:\Computer\DotNet\BLAZOR\TopLearn_Blazor_Ordukhani2\Practice\BlazorServer_DB\Blazor.DataBase\obj\Debug\net7.0\ref\Blazor.DataBase.dll
+E:\Computer\DotNet\BLAZOR\TopLearn_Blazor_Ordukhani2\Practice\BlazorServer_DB\Blazor.DataBase\bin\Debug\net7.0\Blazor.DataBase.runtimeconfig.json
+E:\Computer\DotNet\BLAZOR\TopLearn_Blazor_Ordukhani2\Practice\BlazorServer_DB\Blazor.DataBase\obj\Debug\net7.0\Blazor.DataBase.csproj.AssemblyReference.cache
+E:\Computer\DotNet\BLAZOR\TopLearn_Blazor_Ordukhani2\Practice\BlazorServer_DB\Blazor.DataBase\obj\Debug\net7.0\Blazor.DataBase.genruntimeconfig.cache
