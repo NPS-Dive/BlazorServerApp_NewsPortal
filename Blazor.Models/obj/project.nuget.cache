@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "h7F8Hzjqt4drCcZWHGGJNv2whFDUQigQN1ZwRbddamc4JNFkDOYi9vDq+fTAexaBoQqYlgpQiSeVzfoAOb092g==",
+  "success": true,
+  "projectFilePath": "E:\\Computer\\DotNet\\BLAZOR\\TopLearn_Blazor_Ordukhani2\\Practice\\BlazorServer_DB\\Blazor.Models\\Blazor.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\rm\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\rm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
