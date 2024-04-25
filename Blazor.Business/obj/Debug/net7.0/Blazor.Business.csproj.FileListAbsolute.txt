@@ -1,0 +1,17 @@
+E:\Computer\DotNet\BLAZOR\TopLearn_Blazor_Ordukhani2\Practice\BlazorServer_DB\Blazor.Business\bin\Debug\net7.0\Blazor.Business.deps.json
+E:\Computer\DotNet\BLAZOR\TopLearn_Blazor_Ordukhani2\Practice\BlazorServer_DB\Blazor.Business\bin\Debug\net7.0\Blazor.Business.dll
+E:\Computer\DotNet\BLAZOR\TopLearn_Blazor_Ordukhani2\Practice\BlazorServer_DB\Blazor.Business\bin\Debug\net7.0\Blazor.Business.pdb
+E:\Computer\DotNet\BLAZOR\TopLearn_Blazor_Ordukhani2\Practice\BlazorServer_DB\Blazor.Business\bin\Debug\net7.0\Blazor.Data.dll
+E:\Computer\DotNet\BLAZOR\TopLearn_Blazor_Ordukhani2\Practice\BlazorServer_DB\Blazor.Business\bin\Debug\net7.0\Blazor.Models.dll
+E:\Computer\DotNet\BLAZOR\TopLearn_Blazor_Ordukhani2\Practice\BlazorServer_DB\Blazor.Business\bin\Debug\net7.0\Blazor.Data.pdb
+E:\Computer\DotNet\BLAZOR\TopLearn_Blazor_Ordukhani2\Practice\BlazorServer_DB\Blazor.Business\bin\Debug\net7.0\Blazor.Models.pdb
+E:\Computer\DotNet\BLAZOR\TopLearn_Blazor_Ordukhani2\Practice\BlazorServer_DB\Blazor.Business\obj\Debug\net7.0\Blazor.Business.csproj.AssemblyReference.cache
+E:\Computer\DotNet\BLAZOR\TopLearn_Blazor_Ordukhani2\Practice\BlazorServer_DB\Blazor.Business\obj\Debug\net7.0\Blazor.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\Computer\DotNet\BLAZOR\TopLearn_Blazor_Ordukhani2\Practice\BlazorServer_DB\Blazor.Business\obj\Debug\net7.0\Blazor.Business.AssemblyInfoInputs.cache
+E:\Computer\DotNet\BLAZOR\TopLearn_Blazor_Ordukhani2\Practice\BlazorServer_DB\Blazor.Business\obj\Debug\net7.0\Blazor.Business.AssemblyInfo.cs
+E:\Computer\DotNet\BLAZOR\TopLearn_Blazor_Ordukhani2\Practice\BlazorServer_DB\Blazor.Business\obj\Debug\net7.0\Blazor.Business.csproj.CoreCompileInputs.cache
+E:\Computer\DotNet\BLAZOR\TopLearn_Blazor_Ordukhani2\Practice\BlazorServer_DB\Blazor.Business\obj\Debug\net7.0\Blazor.B.F2687F12.Up2Date
+E:\Computer\DotNet\BLAZOR\TopLearn_Blazor_Ordukhani2\Practice\BlazorServer_DB\Blazor.Business\obj\Debug\net7.0\Blazor.Business.dll
+E:\Computer\DotNet\BLAZOR\TopLearn_Blazor_Ordukhani2\Practice\BlazorServer_DB\Blazor.Business\obj\Debug\net7.0\refint\Blazor.Business.dll
+E:\Computer\DotNet\BLAZOR\TopLearn_Blazor_Ordukhani2\Practice\BlazorServer_DB\Blazor.Business\obj\Debug\net7.0\Blazor.Business.pdb
+E:\Computer\DotNet\BLAZOR\TopLearn_Blazor_Ordukhani2\Practice\BlazorServer_DB\Blazor.Business\obj\Debug\net7.0\ref\Blazor.Business.dll
